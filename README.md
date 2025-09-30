@@ -11,5 +11,5 @@
 - 8~10주차: 테스트, 배포, 미니 프로젝트
 
 ## 🔗 자료
-- [Notion 페이지](링크)
+- [Notion 페이지](https://www.notion.so/Spring-Framework-Study-27ec76bacc24809da6fef979821e8e38?source=copy_link)
 - [발표자료 모음](링크)
